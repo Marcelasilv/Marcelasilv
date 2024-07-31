@@ -18,7 +18,7 @@
   <img align="center" alt="Mahh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mahh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mahh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Mahh-pic" height="150" style="border-radius:50px;" 
+  
 </div>
 
 
@@ -28,13 +28,12 @@
  <a href="https://discord.marce0306" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "oliveirasilvamarcela11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcela-oliveira-707916252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- </div> 
+  <div> 
   
 
 
 ![Snake animation](https://github.com/Marcelasilv/Marcelasilv/blob/output/github-contribution-grid-snake.svg)
 
-.[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Marcelasilv&repo=Marcelasilv&theme=react)](https://github.com/Marcelasilv)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?Marcelasilv&repo=Marcelasilv&theme=react)](https://github.com/Marcelasilv).
 
 
