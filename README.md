@@ -8,7 +8,7 @@
    [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white/)](https://www.behance.net/)
    [![Fllow](https://img.shields.io/github/followers/{Marcelasilv}.svg?style=social&label=Follow&maxAge=2592000/)](https://github.com/Marcelasilv/)
    
-   ![MahhOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelasilv&show_icons=true&theme=cobalt)
+   ![Marcelasilv GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelasilv&show_icons=true&theme=cobalt)
    
   <div style="display: inline_block"><br>
   <img align="center" alt="Mahh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,7 +33,7 @@
   
 ### GitHub Activity
 
-![Snake animation](https://github.com/MahhOliveira/MahhOliveira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Marcelasilv/Marcelasilv/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Marcelasilv&repo=Marcelasilv&theme=react)](https://github.com/Marcelasilv)
 
