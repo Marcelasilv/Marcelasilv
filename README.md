@@ -1,8 +1,4 @@
-Olá, eu sou a Marcela Oliveira 
-
-Sou uma entusiasta de tecnologia apaixonada por desenvolvimento de software e afins. 
-Fascinada por desafios de programação e sempre em busca de aprender algo novo. Contribuindo para a comunidade de código aberto e desenvolvendo soluções inovadoras. 
-Vamos colaborar e criar juntos!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Analista+e+Desenvolvedora)](https://git.io/typing-svg)
 
   [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077130312022)
 
