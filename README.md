@@ -29,12 +29,12 @@
   <a href = "oliveirasilvamarcela11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcela-oliveira-707916252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <div> 
+ </div> 
   
-### GitHub Activity
+
 
 ![Snake animation](https://github.com/Marcelasilv/Marcelasilv/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Marcelasilv&repo=Marcelasilv&theme=react)](https://github.com/Marcelasilv)
+.[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Marcelasilv&repo=Marcelasilv&theme=react)](https://github.com/Marcelasilv)
 
 
