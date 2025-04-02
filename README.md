@@ -1,15 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73FDA&width=435&lines=Marcela+Silva)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73FDA&width=435&lines=Analista+e+Desenvolvedora" alt="Typing SVG" /></a>
-  [![portifilio](https://img.shields.io/badge/portifilio-1877F2?style=for-the-badge&logo=portifolio&logoColor=white)](https://portfolio-projetos-socia-p0bj5bw.gamma.site/)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marcela;I'm+22+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+
+<br>
+<br>
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marcelasilv&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+</div>
+
+</a>
+
+</div>
+
+<div align="center" >
    
-   [![Fllow](https://img.shields.io/github/followers/{Marcelasilv}.svg?style=social&label=Follow&maxAge=2592000/)](https://github.com/Marcelasilv/)
-   
-   ![Marcelasilv GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelasilv&show_icons=true&theme=cobalt)
-   
-  <div style="display: inline_block"><br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcelasilv&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Marcelasilv/github-readme-activity-graph)
+
+</div>
+
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Mahh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mahh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mahh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,16 +33,18 @@
 </div>
 
 
-
 <div> 
-  	<a href="https://www.twitch.tv/marcela_olv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  	
  <a href="https://discord.marce0306" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "marcelasilvaoliveira2024@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "marcelasilvaoliveira2024@outlook.com"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcela-oliveira-707916252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <div> 
-  
+
+<div>
+</div>
 
 
-<img width=100% src="https://github.com/Marcelasilv/Marcelasilv/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcelasilv&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
 
