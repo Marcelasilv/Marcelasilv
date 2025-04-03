@@ -5,13 +5,23 @@
 <br>
 <br>
 
-<div align="center">
+
+<div>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marcelasilv&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 </div>
+
 
 </a>
 
+</div>
+<div> 
+  	
+ <a href="https://discord.marce0306" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "marcelasilvaoliveira2024@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcela-oliveira-707916252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://www.instagram.com/_._marcela.__/"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+[![portifilio](https://img.shields.io/badge/portifilio-1877F2?style=for-the-badge&logo=portifolio&logoColor=white)](https://portfolio-projetos-socia-p0bj5bw.gamma.site/)
+<div>
 </div>
 
 <div align="center" >
@@ -33,15 +43,6 @@
 </div>
 
 
-<div> 
-  	
- <a href="https://discord.marce0306" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "marcelasilvaoliveira2024@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcela-oliveira-707916252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://www.instagram.com/_._marcela.__/"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-[![portifilio](https://img.shields.io/badge/portifilio-1877F2?style=for-the-badge&logo=portifolio&logoColor=white)](https://portfolio-projetos-socia-p0bj5bw.gamma.site/)
-<div>
-</div>
 
 
 
